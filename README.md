@@ -1,26 +1,102 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+# Vipin Maurya – Data Analyst Portfolio
 
-<a href="https://www.vipinanalytics.tech/" target="_blank">**Visit Now** 🚀</a>
+<p align="center">
 
+<a href="https://vipinanalytics.tech" target="_blank">
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+### 🚀 Click Here to Visit My Portfolio Website
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+</a>
 
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+</p>
 
+---
 
-<h2>📬 Contact</h2>
+## 🌐 Live Website
 
-Feel free to reach me through the below handles if you'd like to contact me.
+👉 https://vipinanalytics.tech
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+This repository contains the source code for my **personal Data Analytics portfolio website**.
+
+The portfolio showcases my **skills, analytics projects, dashboards, and experience in data analysis**.
+
+---
+
+# 👨‍💻 About Me
+
+Hi, I'm **Vipin Maurya**, an aspiring **Data Analyst** passionate about analyzing data and building dashboards that generate meaningful business insights.
+
+Currently pursuing **Bachelor of Computer Applications (BCA)** and building real-world analytics projects using modern data tools.
+
+---
+
+# 🚀 Tech Stack
+
+This portfolio website is built using:
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+
+### Libraries & Tools
+
+* Particle.js
+* Typed.js
+* Vanilla Tilt.js
+* ScrollReveal
+* Font Awesome
+* Tawk.to Live Chat
+* JSON
+
+---
+
+# 📊 Data Analytics Skills
+
+• Excel (Pivot Tables, Data Cleaning, Dashboards)
+• SQL (Data Querying & Analysis)
+• Python (Pandas, Data Analysis)
+• Power BI (Interactive Dashboards)
+• Data Visualization
+
+---
+
+# 📁 Portfolio Sections
+
+The website includes the following sections:
+
+* Home
+* About
+* Skills
+* Education
+* Projects
+* Experience
+* Contact
+
+---
+
+# 📬 Contact
+
+If you'd like to connect regarding **Data Analytics opportunities or collaboration**, feel free to reach out.
+
+📧 Email
+[nextstopuk.vipin@gmail.com](mailto:nextstopuk.vipin@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/vipin-maurya-96286a25b
+
+💻 GitHub
+https://github.com/vipin-data
+
+🌐 Portfolio
+https://vipinanalytics.tech
+
+---
+
+# ⭐ Support
+
+If you like this portfolio or find it useful, please consider **starring the repository ⭐**
+
+---
+
+© 2025 Vipin Maurya | Data Analytics Portfolio
